@@ -332,6 +332,11 @@ section {
     padding-right: 30px;
 }
 
+p.short {
+    font-weight: 100;
+    font-size: small;
+}
+
 /* Experience Section */
 #experience {
     position: relative;
@@ -362,7 +367,7 @@ section {
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     gap: 0.5rem;
 }
 
